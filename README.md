@@ -1,18 +1,35 @@
-# Ариана Шияневская - Frontend Developer
+ 
+# Обо мне
+Привет! </br>Меня зовут Ариана, я начинающий фронтенд‑разработчик.</br> Мне нравится превращать идеи в интерактивные и удобные интерфейсы, создавать сайты и приложения, которые просты и приятны в использовании.  
 
-### 🙋‍♀️ Немного обо мне
-Я начинающий frontend-разработчик, стремлюсь создавать простые и понятные интерфейсы. Легко обучаюсь и умею работать в команде.
+
+### Мои сильные стороны
+- Быстро учусь новым инструментам и библиотекам
+- Внимательность к деталям и аккуратность
+- Умение доводить проекты до конца
+
 
 ---
 
-### 🛠️ Навыки
-<p> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
-</p>
+## 🛠️ Навыки
+
+### 🎨 Frontend
+- HTML5 · CSS3 · JavaScript (ES6+) · React  
+
+### ⚙️ Backend & Tools
+- Node.js · MySQL  
+
+### 🔧 Дополнительно
+- Git · jQuery  
+
+---
+
+## 📫 Контакты
+
+- 💬 Telegram: [@ssorrrry](https://t.me/ssorrrry)  
+- 📧 Email: ar.33@list.ru
+
+---
+
+Спасибо, что заглянули в мой профиль!  
+Буду рада обратной связи и новым интересным проектам 🤗
