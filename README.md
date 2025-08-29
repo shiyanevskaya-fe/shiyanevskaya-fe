@@ -13,11 +13,11 @@
 
 ## 🛠️ Навыки
 
-<b>Frontend</b>: HTML5 · CSS3 · JavaScript (ES6+) · React  
+<b>База</b>: HTML5 · CSS3 · JavaScript (ES6+) · TypeScipt  
 
-<b>Backend & Tools </b>: Node.js · MySQL  
+<b>Фреймворки</b>: React
 
-<b>Дополнительно</b>: Git · jQuery  
+<b>Дополнительно</b>: Git · jQuery · MySQL  
 
 ---
 
