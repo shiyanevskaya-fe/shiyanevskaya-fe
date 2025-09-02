@@ -15,7 +15,7 @@
 
 <b>База</b>: HTML5 · CSS3 · JavaScript (ES6+) · TypeScipt  
 
-<b>Фреймворки</b>: React
+<b>Фреймворки</b>: Vue 3
 
 <b>Дополнительно</b>: Git · jQuery · MySQL  
 
