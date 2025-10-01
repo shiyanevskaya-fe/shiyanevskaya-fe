@@ -15,9 +15,9 @@
 
 <b>База</b>: HTML5 · CSS3 · JavaScript (ES6+) · TypeScipt  
 
-<b>Фреймворки</b>: Vue 3
+<b>Фреймворки</b>: React · Vue 3 + Vue Router + Pinia
 
-<b>Дополнительно</b>: Git · jQuery · MySQL  
+<b>Дополнительно</b>: Git · jQuery · MySQL · Figma
 
 ---
 
